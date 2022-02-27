@@ -1,1 +1,1 @@
-Latihan menggunakan Bootstrap.
+Latihan menggunakan Bootstrap dan mengupload via Terminal.
